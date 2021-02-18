@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+    <context>sample</context>
+    <servlet>
+        <servlet-name>first-servlet-name</servlet-name>
+        <servlet-class>first-servlet-class</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>second-servlet-name</servlet-name>
+        <servlet-class>second-servlet-class</servlet-class>
+    </servlet>
+</web-app>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<web-app>
+    <context>sample</context>
+    <servlet>
+        <servlet-name>hello-world</servlet-name>
+        <servlet-class>com.mituta.container.servlets.HelloWorldServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>time/test</servlet-name>
+        <servlet-class>com.mituta.container.servlets.CurrentTimeServlet</servlet-class>
+    </servlet>
+</web-app>
